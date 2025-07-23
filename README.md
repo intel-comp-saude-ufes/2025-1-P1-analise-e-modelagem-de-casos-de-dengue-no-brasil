@@ -29,7 +29,7 @@ Por se tratarem de arquivos `.ipynb`, podem ser executados em diversos ambientes
 ### Repositório e Dados
 Faça o *download* do projeto:
 ```bash
-git clone https://github.com/intel-comp-saude-ufes/2025-1-P1-modelos-de-inteligencia-computacional-para-analise-e-modelagem-da-dengue-no-brasil.git && cd 2025-1-P1-modelos-de-inteligencia-computacional-para-analise-e-modelagem-da-dengue-no-brasil/
+git clone https://github.com/intel-comp-saude-ufes/2025-1-P1-analise_e_modelagem_de_casos_de_dengue_no_brasil.git && cd 2025-1-P1-analise_e_modelagem_de_casos_de_dengue_no_brasil
 ```
  - Faça o *download* dos *datasets* `.csv` de 2016 à 2025 [aqui](https://opendatasus.saude.gov.br/dataset/arboviroses-dengue).
  - Mova-os para o diretório [./data](./data/)
