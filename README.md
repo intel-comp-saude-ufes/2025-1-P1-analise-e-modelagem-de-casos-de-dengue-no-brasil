@@ -1,9 +1,8 @@
-# Modelos de Inteligência Computacional para Análise e Modelagem da Dengue no Brasil 🦟
+# Análise e Modelagem de Casos de Dengue no Brasil com Inteligência Computacional 🦟
 
 Este repositório contém a implementação de um projeto voltado à análise e modelagem de dados sobre a Dengue no Brasil. O estudo incluiu abordagens supervisionadas e não supervisionadas, sendo elas:
  - Previsão de surtos com base na série histórica por meio de regressão preditiva.
  - Clusterização de métricas agregadas por municípios para a identificação de correlação entre perfis socioclínicos e regionais.
- - Classificação de semanas epidemiológicas quanto a ocorrência de surtos.<br>
 
 Este projeto foi desenvolvido no âmbito da disciplina de Inteligência Computacional em Saúde, ministrada pelo professor [Andre Pacheco](https://github.com/paaatcha). 
 
@@ -14,10 +13,6 @@ Este projeto foi desenvolvido no âmbito da disciplina de Inteligência Computac
    - [Ambiente Virtual](#ambiente-virtual)
    - [Dependências](#dependências)
    - [Execução](#execução)
- - [Resultados]()
-   - [Previsão de casos semanais (análise temporal)](#previsão-de-casos-semanais-análise-temporal)
-   - [Clusterização de métricas agregadas por município](#clusterização-de-métricas-agregadas-por-município)
-   - [Classificação de semanas epidemiológicas](#classificação-de-semanas-epidemiológicas)
  - [Notas](#notas)
  - [Contribuidores](#contribuidores)
 
@@ -65,17 +60,10 @@ jupyter lab
 ```
 e siga o mesmo procedimento.
 
-## Resultados
-### Previsão de casos semanais (análise temporal)
-
-### Clusterização de métricas agregadas por município
-
-### Classificação de semanas epidemiológicas
-
 ## Notas
- - Para uma visão mais completa sobre o projeto, confira nosso []()
- - Confira também a apresentação em [vídeo]()
- - Os gráficos resultantes das análises serão gerados em [./charts](./charts/)
+ - Para uma visão mais completa sobre o projeto, confira o [artigo]().
+ - Confira também a apresentação em [vídeo]().
+ - Os gráficos resultantes das análises serão gerados em [./charts](./charts/).
  - É recomendável que execute os scripts em um computador com pelo menos **16GB RAM**.
  - Os detalhes de implementação estão documentados nos códigos.
 
