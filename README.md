@@ -61,8 +61,8 @@ jupyter lab
 e siga o mesmo procedimento.
 
 ## Notas
- - Para uma visão mais completa sobre o projeto, confira o [artigo]().
- - Confira também a apresentação em [vídeo]().
+ - Para uma visão mais completa sobre o projeto, confira o [artigo](https://drive.google.com/file/d/1nJSWtydSFJdwfBZPk1QDq7wv4QZ7HTUP/view?usp=sharing).
+ - Confira também a apresentação em [vídeo](https://youtu.be/Htf6eG-Vn2I).
  - Os gráficos resultantes das análises serão gerados em [./charts](./charts/).
  - É recomendável que execute os scripts em um computador com pelo menos **16GB RAM**.
  - Os detalhes de implementação estão documentados nos códigos.
